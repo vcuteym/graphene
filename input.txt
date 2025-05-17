@@ -1,0 +1,3 @@
+# example input parameters (currently unused)
+# lattice constant a = 2.46
+# hopping t = -2.7
